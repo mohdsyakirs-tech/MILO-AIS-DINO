@@ -1,5 +1,2 @@
-# MILO-AIS-DINO
-this is my first repo
-helooooo anyeo
-kamsaranida..
+# Branch 1
 this is pull from Github to VS Code from branch 1

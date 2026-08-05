@@ -2,4 +2,4 @@
 this is my first repo
 helooooo anyeo
 kamsaranida..
-how to push?
+how to pull?

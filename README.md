@@ -1,4 +1,4 @@
-# MILO-AIS-DINO
+# My First Repo
 this is my first repo
 helooooo anyeo
 kamsaranida..
